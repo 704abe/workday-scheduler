@@ -29,3 +29,7 @@ THEN the saved events persist
 ![workday scheduler](/Assets/Screen%20Shot%202022-07-20%20at%202.21.50%20AM.png)
 
 ![tasks inserted into scheduler](/Assets/Screen%20Shot%202022-07-20%20at%202.29.07%20AM.png)
+
+Deployed Webpage: https://704abe.github.io/workday-scheduler/
+
+GitHub Repository: https://github.com/704abe/workday-scheduler
