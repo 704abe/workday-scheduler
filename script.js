@@ -76,5 +76,3 @@ $('#5pmBtn').on('click', function(){
     var text = $('#17').val();
     localStorage.setItem('5pm task', text);
 });
-
-paPreFu();
